@@ -1,0 +1,5 @@
+import numpy as np
+
+
+z = np.zeros((10, 10))
+print(z,np.size(z))
